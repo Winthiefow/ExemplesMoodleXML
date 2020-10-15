@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<quizz>
+	<question type="category">
+    	<category>
+        	<text>$course$/multichoice</text>
+    	</category>
+	</question>
+	<question type="category">
+    	<category>
+        	<text>$course$/matching</text>
+    	</category>
+	</question>
+</quizz>
